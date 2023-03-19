@@ -7,5 +7,5 @@
 #For this specific article, the author plans to simulate and clean the data to select the variables that are relevant to the research question. This may involve. 
 #dropping irrelevant variables, transforming, or recording variables, and creating new variables from existing ones. Once the data cleaning is complete, the author can
 #start analyzing the selected variables to investigate the research question. This may involve using statistical software or other analytically tools to explore relationships 
-#and patterns in the data. Overall, the GSS dataset is a rich source of social and demographic data that can provide valuable insights into various trends and attitudes over time. 
+#and patterns in the data. Overall, the GSS data set is a rich source of social and demographic data that can provide valuable insights into various trends and attitudes over time. 
 # However, careful attention to data cleaning and analysis is necessary to ensure the validity and reliability of the findings.

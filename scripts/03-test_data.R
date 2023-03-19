@@ -12,8 +12,8 @@
 # Pre-requisites: Before performing these tests on the test data, it is assumed that the data has already been imported into R and is stored as a data frame. It is 
 # also assumed that the necessary packages for conducting these tests, such as "dplyr" or "tidy verse", have been installed and loaded in R. Additionally, it is important 
 #to have a clear understanding of the research question and objectives, as this will help guide the data analysis and determine which tests are most appropriate. Finally, 
-# it is recommended to thoroughly review the cookbook or documentation for the dataset, as this will provide important information about the variables, their meanings, and 
-# Any coding or missing value conventions used in the dataset. By having a clear understanding of these prerequisites, researchers can ensure that their data analysis is
+# it is recommended to thoroughly review the cookbook or documentation for the data set, as this will provide important information about the variables, their meanings, and 
+# Any coding or missing value conventions used in the data set. By having a clear understanding of these prerequisites, researchers can ensure that their data analysis is
 # well-informed and accurate.
 
 
@@ -33,7 +33,7 @@ sum(is.na(data))
 
 # Test Two : Check for NA values in specific variables.
 
-# Explanation :  Three are 37060 missing values in the wrok_status, in addition; there are 4678 missing values in the happy variable,also there are 15454 missing values in the job_satisfied variable.
+# Explanation :  Three are 37060 missing values in the work_status, in addition; there are 4678 missing values in the happy variable,also there are 15454 missing values in the job_satisfied variable.
 
 sum(is.na(data$work_status))   
 sum(is.na(data$happy))    
