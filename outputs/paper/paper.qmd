@@ -2,7 +2,7 @@
 title: "Shifting Gender Dynamics: A Longitudinal Study of Education, Employment, and Well-being in the United States from 1972 to 2012"
 author: 
   - SHAOHAN CHANG
-thanks: "Code and data are available at: https://github.com/lucas11333/Education_and_happines-"
+thanks: "Code and data are available at: https://github.com/lucas11333/education-and-happiness-"
 date: "`r Sys.time()`"
 date-format: "D MMMM YYYY"
 abstract: "This study presents an in-depth longitudinal analysis of gender differences in education, employment, and well-being from 1972 to 2012 in the United States. Our findings reveal that women have consistently outperformed men in educational attainment, contributing to a gradual shift towards gender parity in the workforce. However, disparities in unemployment rates and pay equity still exist, emphasizing the need for ongoing efforts to achieve true gender equality. Interestingly, women report higher levels of happiness and job satisfaction compared to men, but this should not be misinterpreted as an unequivocal indication of superior overall quality of life for women. The outcomes of this research highlight the progress made in certain aspects of gender equality, while also underscoring the importance of continued research and policy interventions to further promote equal opportunities and outcomes for individuals of all genders in society."
