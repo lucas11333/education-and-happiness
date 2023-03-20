@@ -23,6 +23,7 @@ library('tidyverse')
 library('janitor')
 library('dplyr')
 #### Test data ####
+
 data <- 
   readr :: read_csv("intputs/data/cleaned_data.csv")
 
