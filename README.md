@@ -10,11 +10,11 @@ This repository is organized as Follows:
 
 To access the United States Cross-Sectional Cumulative Data from 1972-2012, follow these steps:
 
- 1.Go to https://gss.norc.org/get-the-data/stata and access the General Social Survey.
+1.Go to https://gss.norc.org/get-the-data/stata and access the General Social Survey.
 
- 2.Select GSS 1972-2012 Cross-Sectional Cumulative Data and choose a language to access the database of available surveys.
+2. Select GSS 1972-2012 Cross-Sectional Cumulative Data and choose a language to access the database of available surveys.
 
- 3.Find GSS 1972-2012 Cross-Sectional Cumulative Data, click on "data", and download the three files: CSV data file, STATA data definition, and codebook. Ensure that all variables are selected.
+3. Find GSS 1972-2012 Cross-Sectional Cumulative Data, click on "data", and download the three files: CSV data file, STATA data definition, and codebook. Ensure that all variables are selected.
 
- 4.Save the downloaded files locally.
+4. Save the downloaded files locally.
 
